@@ -1,0 +1,7 @@
+{
+    "OwnAddress" : {"ip": null, "port": null},
+    "RivalAddress" : {"ip": null, "port": null},
+    "Position": { "x": null, "y": null, "z": null},
+    "Rotation": { "x": null, "y": null, "z": null},
+    "scale": { "x": null, "y": null, "z": null}
+}
